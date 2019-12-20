@@ -1,0 +1,18 @@
+{
+	"name": "Lukas",
+	"Lukas":
+	{
+		"": {"type":"Text","dialog_text":["Wie kann ich Ihnen helfen?"],"dialog_video":[""],"keywords_text":[],"keywords_inventory":[]},
+		"Lukas": {"type":"Text","dialog_text":["Ja, ich heiße Lukas."],"dialog_video":[""],"keywords_text":["Lukas", "Name"],"keywords_inventory":["Lukas", "Name"]},
+		"Name": {"type":"Text","dialog_text":["Mein Name? Ich heiße Lukas."],"dialog_video":[""],"keywords_text":["Lukas", "Name"],"keywords_inventory":["Lukas", "Name"]},
+		"Alibi": {"type":"Text","dialog_text":["Mein Alibi? Ich war ewig an der Bar, und hab meinen Liebeskummer ertrunken."],"dialog_video":[""],"keywords_text":["Alibi", "Bar"],"keywords_inventory":["Alibi", "Bar"]},
+
+		"Bar": {"type":"Text","dialog_text":["Ja, ich war fast den ganzen Abend an der Bar. Fragen Sie den Wirt."],"dialog_video":[""],"keywords_text":["Bar"],"keywords_inventory":["Bar"]},
+		"Eva": {"type":"Text","dialog_text":["Ich kenne keine Eva. Wer soll das sein?"],"dialog_video":[""],"keywords_text":["Eva"],"keywords_inventory":["Eva"]},
+		"Opfer": {"type":"Text","dialog_text":["Das Opfer war mir nicht bekannt, tut mir Leid."],"dialog_video":[""],"keywords_text":["Opfer"],"keywords_inventory":["Opfer"]},
+		"Küche": {"type":"Text","dialog_text":["Die Küche befindet sich am Ende des Ganges, der vom Eingangsbereich weggeht."],"dialog_video":[""],"keywords_text":["Küche"],"keywords_inventory":["Küche"]},
+		"Rauchen": {"type":"Text","dialog_text":["Wollen Sie eine Zigarette? Ich habe im Moment leider keine dabei."],"dialog_video":[""],"keywords_text":[],"keywords_inventory":[]},
+		"Toilette": {"type":"Text","dialog_text":["Die Toilette befindet sich beim Eingangsbereich, neben der Küche."],"dialog_video":[""],"keywords_text":["Toilette", "Küche"],"keywords_inventory":["Toilette", "Küche"]},
+		"Ungewöhnliches": {"type":"Text","dialog_text":["Hmm, etwas Ungewöhnliches... mir ist eigentlich nichts aufgefallen, tut mir Leid."],"dialog_video":[""],"keywords_text":[],"keywords_inventory":[]},
+	}
+}

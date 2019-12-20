@@ -1,0 +1,18 @@
+{
+	"name": "Manfred",
+	"Manfred":
+	{
+		"": {"type":"Text","dialog_text":["Was wollen Sie von mir wissen?"],"dialog_video":[""],"keywords_text":[],"keywords_inventory":[]},
+		"Manfred": {"type":"Text","dialog_text":["Ja, mein Name ist Manfred."],"dialog_video":[""],"keywords_text":["Manfred", "Name"],"keywords_inventory":["Manfred", "Name"]},
+		"Name": {"type":"Text","dialog_text":["Mein Name ist Manfred."],"dialog_video":[""],"keywords_text":["Manfred", "Name"],"keywords_inventory":["Manfred", "Name"]},
+		"Alibi": {"type":"Text","dialog_text":["Mein Alibi? Ist das ein Witz? Ich habe das Opfer tot aufgefunden und gleich darauf die Polizei verständigt."],"dialog_video":[""],"keywords_text":["Alibi", "Opfer"],"keywords_inventory":["Alibi", "Opfer"]},
+
+		"Bar": {"type":"Text","dialog_text":["Mir ist aufgefallen, dass die Bar meistens nur von einem Mann besetzt war. Der hat aber gleich für 3 getrunken."],"dialog_video":[""],"keywords_text":["Bar"],"keywords_inventory":["Bar"]},
+		"Eva": {"type":"Text","dialog_text":["Ist Eva die blondhaarige? Die finde ich sehr attraktiv. Mehr kann ich nicht über sie sagen."],"dialog_video":[""],"keywords_text":["Eva"],"keywords_inventory":["Eva"]},
+		"Opfer": {"type":"Text","dialog_text":["Ich kannte das Opfer leider nicht."],"dialog_video":[""],"keywords_text":["Opfer"],"keywords_inventory":["Opfer"]},
+		"Küche": {"type":"Text","dialog_text":["Was wollen Sie mit der Küche? Da ist doch nichts passiert."],"dialog_video":[""],"keywords_text":["Küche"],"keywords_inventory":["Küche"]},
+		"Rauchen": {"type":"Text","dialog_text":["Ich habe an diesen Abend wenig geraucht. Muss auf meine Gesundheit schauen."],"dialog_video":[""],"keywords_text":[],"keywords_inventory":[]},
+		"Toilette": {"type":"Text","dialog_text":["Ich war nie auf der Toilette."],"dialog_video":[""],"keywords_text":["Toilette"],"keywords_inventory":["Toilette"]},
+		"Ungewöhnliches": {"type":"Text","dialog_text":["Ungewöhnliches... ich habe Anna kaum gesehen. Ich will ihr nichts unterstellen, aber ich finde das sehr verdächtig!"],"dialog_video":[""],"keywords_text":["Anna"],"keywords_inventory":["Anna"]},
+	}
+}

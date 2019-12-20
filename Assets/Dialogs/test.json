@@ -1,0 +1,8 @@
+{
+	"name": "Herbert",
+	"Herbert":
+	{
+		"": {"type":"Text","dialog_text":["Ich habe ein Alibi!\nWollte schon immer mal auf den Schlossberg gehn!"],"dialog_video":[""],"keywords_text":["Alibi"],"keywords_inventory":["Alibi"]},
+		"Alibi": {"type":"Text","dialog_text":["Mein Alibi? Keine Ahnung!"],"dialog_video":[""],"keywords_text":["Alibi"],"keywords_inventory":["Alibi"]}
+	}
+}
